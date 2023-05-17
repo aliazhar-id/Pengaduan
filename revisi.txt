@@ -1,0 +1,7 @@
+registrasi (admin, petugas) selesai
+verifikasi dan tanggapan (petugas) selesai
+registrasi "NIK = harus angka tidak boleh huruf dan dibatasi jumlah karakter"(masyarakat) selesai
+
+enskripsi password selesai
+validasi login selesai
+pagenation disetiap tabel selesai

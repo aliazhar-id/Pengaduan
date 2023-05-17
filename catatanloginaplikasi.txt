@@ -1,0 +1,10 @@
+Catatan Login : Aplikasi Pengaduan Masyarakat
+By. Rifki Fauzan Suandi XII RPL B
+
+Salah satu Admin :
+- Username = admin
+- password = admin041202
+
+salah satu Petugas :
+- Username = petugas
+- Password = petugas01
